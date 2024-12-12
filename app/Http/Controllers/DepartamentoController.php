@@ -39,7 +39,6 @@ class DepartamentoController extends Controller
         // Obtener todos los porcentajes de carencia médica
         $carencias = $data['carencia_medica']['departamentos'];
 
-        // Retornar la vista con los datos
         return view('encuesta.analisis', [
             'departamentos' => $departamentos,
             'carencias' => $carencias,

@@ -1,0 +1,55 @@
+{
+    "poblacion_enfermedades_cronicas": {
+        "departamentos": {
+            "Moquegua": 51.7,
+            "Puno": 49.4,
+            "Apurímac": 48.7,
+            "Áncash": 48.0,
+            "Amazonas": 48.0,
+            "Lima Metropolitana": 46.2,
+            "Tacna": 45.0,
+            "Prov. Const. del Callao": 44.0,
+            "La Libertad": 43.6,
+            "Lambayeque": 43.2,
+            "Ica": 42.3,
+            "Lima": 41.0,
+            "Tumbes": 41.0,
+            "Arequipa": 40.4,
+            "San Martín": 39.3,
+            "Junín": 38.9,
+            "Pasco": 38.1,
+            "Cajamarca": 37.6,
+            "Piura": 36.7,
+            "Cusco": 36.0,
+            "Huánuco": 35.2,
+            "Ayacucho": 34.5,
+            "Ucayali": 33.5,
+            "Loreto": 31.8,
+            "Huancavelica": 23.4,
+            "Madre de Dios": 20.7
+        },
+        "grupos_vulnerables": {
+            "Nacional": 42.0,
+            "Hombre": 37.0,
+            "Mujer": 46.0,
+            "Grupo Etario": {
+                "0-4 años": 7.9,
+                "5-17 años": 17.6,
+                "18-59 años": 45.9,
+                "60 años a más": 68.0
+            },
+            "Condición de Discapacidad": {
+                "Con discapacidad": 87.5,
+                "Sin discapacidad": 39.4
+            },
+            "Etnicidad": {
+                "Origen nativo": 52.4,
+                "Otro": 41.1
+            },
+            "Lengua Materna": {
+                "Lengua nativa": 54.4,
+                "Otra": 41.1
+            }
+        }
+    }
+}
